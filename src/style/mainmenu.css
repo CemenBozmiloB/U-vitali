@@ -1,0 +1,15 @@
+.main-menu .container{
+    background: linear-gradient(45deg, rgb(152, 207, 195) 49%, rgb(82, 89, 182));
+}
+.list-menu a{
+    text-decoration: none;
+    color: greenyellow;
+}
+.list-menu a:hover{
+    text-decoration: underline;
+    color: darkorchid;
+    transition: all 0.3s;
+}
+.list-menu{
+    list-style-type: none;
+}
